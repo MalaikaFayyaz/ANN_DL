@@ -1,0 +1,14 @@
+ResNet-50 Metric ,Result ,,,Model,Dataset,Task,Main Metric,Result
+Train accuracy,1,,,Resnet-50,Test,Classification,Accuracy,1
+Validation accuracy,1,,,U-Net,Test,Segmentation,Dice,0.9278
+Test accuracy,1,,,,,,,
+Macro precision,1,,,,,,,
+Macro recall,1,,,,,,,
+Macro F1 ,1,,,,,,,
+,,,,,,,,
+U-Net Metric ,Result,,,,,,,
+,,,,,,,,
+Training loss,0.1501,,,,,,,
+Validation loss ,0.2367,,,,,,,
+Test Dice ,0.9278,,,,,,,
+Test IoU,0.8679,,,,,,,
